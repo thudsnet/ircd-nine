@@ -1,0 +1,3 @@
+# ircd-nine
+
+welcome
